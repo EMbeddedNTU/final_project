@@ -7,3 +7,6 @@
 [submodule "final_sensor"]
 	path = final_sensor
 	url = git@github.com:EMbeddedNTU/final_sensor.git
+[submodule "final_agent"]
+	path = final_agent
+	url = git@github.com:EMbeddedNTU/final_agent.git
