@@ -1,0 +1,6 @@
+[submodule "final_frontend"]
+	path = final_frontend
+	url = git@github.com:EMbeddedNTU/final_frontend.git
+[submodule "final_controller"]
+	path = final_controller
+	url = git@github.com:EMbeddedNTU/final_controller.git
