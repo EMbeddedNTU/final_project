@@ -1,12 +1,16 @@
 [submodule "final_frontend"]
 	path = final_frontend
 	url = git@github.com:EMbeddedNTU/final_frontend.git
+	branch=main
 [submodule "final_controller"]
 	path = final_controller
 	url = git@github.com:EMbeddedNTU/final_controller.git
+	branch=main
 [submodule "final_sensor"]
 	path = final_sensor
 	url = git@github.com:EMbeddedNTU/final_sensor.git
+	branch=main
 [submodule "final_agent"]
 	path = final_agent
 	url = git@github.com:EMbeddedNTU/final_agent.git
+	branch=main
